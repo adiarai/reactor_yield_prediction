@@ -53,3 +53,4 @@ Model Evaluation and Metrics
 Data Visualization using matplotlib
 
 Regression Modeling
+![Yield Prediction Plot](yield_prediction_plot.png)
