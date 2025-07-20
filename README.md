@@ -1,4 +1,4 @@
-project Title Chemical Reactor Yield Prediction Using Random Forest Regression
+Chemical Reactor Yield Prediction Using Random Forest Regression
 
 Project Description This project focuses on building a data-driven machine learning model to predict the yield percentage of a chemical reactor based on various operational parameters. The purpose is to assist in optimizing chemical processes by estimating the reactor output before actual production, which saves time, resources, and cost.
 
